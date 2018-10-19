@@ -1,10 +1,10 @@
-package com.antoine.bataillenavalle.bateau;
+package com.antoine.bataillenavalle.warship;
 
 public class Destroyer extends DefaultBateau {
 	
 	public Destroyer () {
 
-		super(2, 3, 2);
+		super(2, 3);
 	
 	}
 

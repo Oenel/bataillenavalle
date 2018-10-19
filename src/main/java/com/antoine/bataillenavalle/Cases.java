@@ -1,4 +1,4 @@
-package com.antoine.bataillenavalle.carte;
+package com.antoine.bataillenavalle;
 
 public class Cases {
 
